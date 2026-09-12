@@ -2,7 +2,7 @@
 
 **Full-Stack Software Engineer | Cloud-Native Enthusiast | MS in Information Systems @ Northeastern University**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanket-kesarkar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanketk07)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanketkesarkar)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanketkusa@gmail.com)
 
@@ -73,7 +73,7 @@ Full-Stack Software Engineer with **3+ years** of experience building scalable m
 
 ## Let's Build Something Together
 
-<a href="https://linkedin.com/in/sanket-kesarkar"><img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/sanketk07/"><img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
 <a href="mailto:sanketkusa@gmail.com"><img src="https://img.shields.io/badge/Reach_me_at-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 &nbsp;

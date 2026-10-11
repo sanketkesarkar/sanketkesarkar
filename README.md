@@ -82,7 +82,7 @@ Messaging:       RabbitMQ, Redis/RQ, Dead-Letter Queues, Idempotent Processing
 
 ![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS CCP](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CSM](https://img.shields.io/badge/Scrum_Alliance-Certified_ScrumMaster-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![CSM](https://img.shields.io/badge/Scrum_Alliance-Certified_ScrumMaster-009FDA?style=for-the-badge)
 
 ## 🤝 Let's Connect
 
